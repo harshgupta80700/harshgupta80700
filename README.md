@@ -1,4 +1,4 @@
-### Hi 👋 I am Harsh Gupta
+# Hi 👋 I am Harsh Gupta
 
 ## I am a Flutter Developer and a UI/UX designer
 
