@@ -10,12 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Drop me an email at harshgupta.80700@gmail.com
 - ⚡ Fun fact: ...I am in love with Singing
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh-gupta-129233145/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_harsh.hg807_/)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/png/512/61/61045.png" />](https://www.facebook.com/harshgupta.80700)
-
 <br />
 
 ### Languages and Tools:
@@ -37,10 +31,22 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
+<br />
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/apiharshgupta80700anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"  width="40" height="40"/></p> -->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true" alt="harshgupta80700" /> </p>
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh-gupta-129233145/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_harsh.hg807_/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/png/512/61/61045.png" />](https://www.facebook.com/harshgupta.80700)
+
 
 
 
