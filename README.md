@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...Drop me an email at harshgupta.80700@gmail.com
 - ⚡ Fun fact: ...I am in love with Singing
--->
 
 ### Connect with me:
 
