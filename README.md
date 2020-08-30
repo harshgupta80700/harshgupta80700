@@ -2,7 +2,6 @@
 
 ## I am a Flutter Developer and a UI/UX designer
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...various projects on Flutter
 - 🌱 I’m currently learning ...Node.js
