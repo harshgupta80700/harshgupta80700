@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[[Harsh's github stats](https://github-readme-stats.vercel.app/api?harshgupta80700=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[[Harsh's github stats](https://github-readme-stats.vercel.app/apiharshgupta80700)](https://github.com/anuraghazra/github-readme-stats)
 
 
