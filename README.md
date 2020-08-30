@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋 I am Harsh Gupta
 
-<!--
-**harshgupta80700/harshgupta80700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Flutter Developer and a UI/UX designer
 
 Here are some ideas to get you started:
 
