@@ -1,4 +1,4 @@
-# Hi 👋 I am Harsh Gupta
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Harsh Gupta
 
 ## I am a Flutter Developer and a UI/UX designer
 
