@@ -18,6 +18,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />](https://github.com/harshgupta80700)
+[<img align="left" alt="Dart" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />](https://github.com/harshgupta80700)
 [<img align="left" alt="PhotoShop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="Illustrator" width="26px" src="https://cdn.clipart.email/0710a43746dcac336f3488bdacf36171_solved-icons-for-2020-updates-adobe-support-community-10731028_3208-3213.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://github.com/harshgupta80700)
