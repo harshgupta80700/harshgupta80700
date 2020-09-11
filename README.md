@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
 
 
-- 🔭 I’m currently working on ...various projects on Flutter
+- 🔭 I’m currently working on ..Improving my current skills
 - 🌱 I’m currently learning ...Node.js
 - 💬 Ask me about ...Anything 
 - 📫 How to reach me: ...Drop me an email at harshgupta.80700@gmail.com
