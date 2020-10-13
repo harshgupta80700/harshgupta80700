@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hello" width="35px"> I am Harsh Gupta
 
-## I am a Flutter Developer and a UI/UX designer
+## I am a Flutter Developer
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
