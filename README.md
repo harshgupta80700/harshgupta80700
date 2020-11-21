@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ..Improving my current skills
 - 🌱 I’m currently learning ...Node.js
 - 💬 Ask me about ...Anything 
-- 📫 How to reach me: ...Drop me an email at harshgupta.80700@gmail.com
+- 📫 How to reach me: ...Drop me an email <a href = "harshgupta.80700@gmail.com">here</a>
 - ⚡ Fun fact: ...I am in love with Singing
 
 <br />
