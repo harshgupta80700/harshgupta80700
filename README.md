@@ -3,7 +3,7 @@
 ## I am a Flutter Developer
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700) -->
 
 
 - 🔭 I’m currently working on ..Improving my current skills
