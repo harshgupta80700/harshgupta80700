@@ -64,19 +64,19 @@ const harsh = {
 <br />
 
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo="https://logowik.com/content/uploads/images/flutter5786.jpg")&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![node](https://img.shields.io/badge/-node-05122A?style=flat&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Adobe Photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=AdobePhotoshop)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=Visual Studio Code)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 ![Mongo](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=MongoDB)&nbsp;
 
 <div>
