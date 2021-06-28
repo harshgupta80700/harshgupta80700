@@ -44,6 +44,13 @@
 <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&theme=react&border_color=61dafb&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
 </div>
+
+<br />
+<br />
+<br />
+<br />
+
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
       
 
 <br />
