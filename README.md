@@ -4,6 +4,8 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
+![GitHub followers](https://img.shields.io/github/followers/harshgupta80700?label=Follow&style=social)
+[![Linkedin: harsh](https://img.shields.io/badge/-harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-gupta-129233145/)](https://www.linkedin.com/in/harsh-gupta-129233145/)
 
 
 <!-- - 🔭 I’m currently working on ..Improving my current skills
@@ -16,17 +18,19 @@
 const harsh = {
     pronouns: "He" | "Him",
     code: ["Flutter", "Dart", "Node.js", "Javascript", "React", "C++", "Python", "HTML", "CSS"],
-    askMeAbout: ["app dev", "designing", "web dev",],
+    askMeAbout: ["app-dev", "designing", "web-dev",],
     technologies: {
-        backEnd: {
-            js: "node",
+        mobileApp: {
+              dart: "Flutter"
         },
         frontEnd: {
             js: "react",
             html: "html",
             css: "css"
         },
-        mobileApp: ["Flutter"],
+        backEnd: {
+            js: "node"
+        },
         databases: ["mongo", "MySql", "sqlite"],
         stateManagements:["Mobx", "Provider"],
         misc: ["Firebase", "Socket.IO", "Web sockets", "Photoshop"]
