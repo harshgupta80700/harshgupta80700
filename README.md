@@ -88,7 +88,9 @@ const harsh = {
 <!-- <br />
 <br /> -->
 
-<img style = "margin-top: 10px;" alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=61dafb&line=F85D7F&point=FFFFFF&hide_border=true" />
+<div style="height: 15px;width: 100%;">
+</div>
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=61dafb&line=F85D7F&point=FFFFFF&hide_border=true" />
       
 
 <br />
