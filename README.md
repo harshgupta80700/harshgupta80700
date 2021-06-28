@@ -37,13 +37,9 @@
 
 <div>
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
-</div>
-
-<div>
       <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
-      <br />
-<br />
-</div>      
+</div>
+     
       
 
 <!-- <div style="width: 50%; float: right;">
