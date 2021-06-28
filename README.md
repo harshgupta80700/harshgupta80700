@@ -34,6 +34,12 @@
 
 <br />
 <br />
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
+<a href="(https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
+ </a>
 <br />
 <br />
 
