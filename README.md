@@ -12,6 +12,7 @@
 - 📫 How to reach me: ...Drop me an email <a href = "mailto:harshgupta.80700@gmail.com">here</a>
 - ⚡ Fun fact: ...I am in love with Singing
 
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
@@ -35,6 +36,7 @@ const anmol = {
     currentFocus: "Ios Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
 
 <br />
 
