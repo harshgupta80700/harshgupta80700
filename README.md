@@ -12,6 +12,30 @@
 - 📫 How to reach me: ...Drop me an email <a href = "mailto:harshgupta.80700@gmail.com">here</a>
 - ⚡ Fun fact: ...I am in love with Singing
 
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["node", "fastify", "express", "SuiteScript"],
+        },
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        mobileApp: {
+            native: ["Android Development", "Ios Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Ios Mobile App Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+
 <br />
 
 ### Languages and Tools:
@@ -33,7 +57,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/harshgupta80700)
 
 <br />
-<br />'
+<br />
 
 <div>
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
