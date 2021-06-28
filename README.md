@@ -35,7 +35,7 @@
 <br />
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
  </a>
 <a href="(https://git.io/streak-stats" title="Go to Source">
       <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
