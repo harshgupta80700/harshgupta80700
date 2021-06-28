@@ -69,9 +69,8 @@ const harsh = {
 ![node](https://img.shields.io/badge/-node-05122A?style=flat&logo=node)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Guthub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-
-
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <div>
