@@ -64,7 +64,7 @@ const harsh = {
 <br />
 
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=https://logowik.com/content/uploads/images/flutter5786.jpg)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo="https://logowik.com/content/uploads/images/flutter5786.jpg")&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![node](https://img.shields.io/badge/-node-05122A?style=flat&logo=node)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
