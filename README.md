@@ -41,6 +41,8 @@
 
 <div>
       <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
+      <br />
+<br />
 </div>      
       
 
@@ -48,8 +50,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&theme=react&border_color=61dafb&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
 </div> -->
 
-<br />
-<br />
+
 <br />
 <br />
 
