@@ -53,7 +53,7 @@
 <br />
 <br />
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=61dafb&line=F85D7F&point=FFFFFF&hide_border=true" />
       
 
 <br />
