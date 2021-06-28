@@ -4,7 +4,7 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/harshgupta80700?label=Follow&style=social) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700) 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)  -->
 [![Linkedin: harsh](https://img.shields.io/badge/-harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-gupta-129233145/)](https://www.linkedin.com/in/harsh-gupta-129233145/)
 
 
