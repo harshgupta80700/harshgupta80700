@@ -6,34 +6,32 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
 
 
-- 🔭 I’m currently working on ..Improving my current skills
+<!-- - 🔭 I’m currently working on ..Improving my current skills
 - 🌱 I’m currently learning ...Node.js
 - 💬 Ask me about ...Anything 
 - 📫 How to reach me: ...Drop me an email <a href = "mailto:harshgupta.80700@gmail.com">here</a>
-- ⚡ Fun fact: ...I am in love with Singing
+- ⚡ Fun fact: ...I am in love with Singing -->
 
 ```javascript
-const anmol = {
+const harsh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Flutter", "Dart", "Node.js", "Javascript", "React", "C++", "Python", "HTML", "CSS"],
+    askMeAbout: ["app dev", "designing", "web dev",],
     technologies: {
         backEnd: {
-            js: ["node", "fastify", "express", "SuiteScript"],
+            js: "node",
         },
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: "react",
+            html: "html",
+            css: "css"
         },
-        mobileApp: {
-            native: ["Android Development", "Ios Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        mobileApp: ["Flutter"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        stateManagements:["Mobx", "Provider"]
+        misc: ["Firebase", "Socket.IO", "Web sockets", "Photoshop"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: ["React", "Node"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
