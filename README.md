@@ -42,7 +42,7 @@
 </div>
 
 <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&theme=react&border_color=61dafb&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
 </div>
       
 
