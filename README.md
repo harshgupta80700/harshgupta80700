@@ -3,7 +3,7 @@
 ## I am a Flutter Developer
 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=harshgupta80700.harshgupta80700)
 
 
 - 🔭 I’m currently working on ..Improving my current skills
@@ -36,11 +36,18 @@
 <br />
 <br />
 <br />
+<div>
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
       <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
+</div>
+
+<div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
+</div>
+      
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
+
 <br />
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/apiharshgupta80700anuraghazra&show_icon=true)](https://github.com/anuraghazra/github-readme-stats) -->
