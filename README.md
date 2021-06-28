@@ -44,7 +44,7 @@ const harsh = {
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/harshgupta80700)
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="Dart" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />](https://github.com/harshgupta80700)
 [<img align="left" alt="PhotoShop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" />](https://github.com/harshgupta80700)
@@ -58,10 +58,7 @@ const harsh = {
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://github.com/harshgupta80700)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/harshgupta80700)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/harshgupta80700)
-
-<br />
-<br />
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/harshgupta80700) -->
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
@@ -78,6 +75,7 @@ const harsh = {
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 ![Mongo](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=MongoDB)&nbsp;
+<br />
 
 <div>
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
