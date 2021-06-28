@@ -66,7 +66,7 @@ const harsh = {
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
+![node](https://img.shields.io/badge/-node-05122A?style=flat&logo=node)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
