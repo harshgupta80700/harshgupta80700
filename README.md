@@ -75,6 +75,9 @@ const harsh = {
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode)&nbsp;
+![Mongo](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongo)&nbsp;
 
 <div>
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
