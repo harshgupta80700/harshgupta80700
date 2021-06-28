@@ -74,6 +74,7 @@ const harsh = {
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
 ![Mongo](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=MongoDB)&nbsp;
 <br />
 
@@ -81,18 +82,13 @@ const harsh = {
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=harshgupta80700&show_icons=true&theme=react&border_color=61dafb&include_all_commits=false&count_private=true&hide=issues" alt="harshgupta80700" />
       <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=harshgupta80700&theme=react&border=61DAFB&fire=DDB80F"/>
 </div>
-     
-      
-
 <!-- <div style="width: 50%; float: right;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta80700&layout=compact&theme=dark&theme=react&border_color=61dafb&langs_count=5&card_width=500&show_all_langs=true" alt="harshgupta80700" />
 </div> -->
+<!-- <br />
+<br /> -->
 
-
-<br />
-<br />
-
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=61dafb&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img style = "margin-top: 10px;" alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta80700&bg_color=1F222E&color=61dafb&line=F85D7F&point=FFFFFF&hide_border=true" />
       
 
 <br />
