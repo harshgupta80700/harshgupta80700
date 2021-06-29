@@ -61,7 +61,7 @@ const harsh = {
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/harshgupta80700) -->
 
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat & logo=Flutter & logoColor=white & color=ff123456)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat & logo=Flutter & logoColor=white & color=#42A5F5)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat & logo=Dart)&nbsp;
 ![node](https://img.shields.io/badge/-node-05122A?style=flat & logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat & logo=javascript)&nbsp;
